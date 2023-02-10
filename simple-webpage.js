@@ -8,7 +8,7 @@ let myNodeWebApp = http.createServer( function(req, res){
 
             <div class="home" style="text-align: center;font-family: 'Segoe UI'; background-color :#20262E; font-weight: 700;margin-top: 15px; width: 100%; font-size: 3em"> 
             
-            <em style="color: lightgrey">Welcome Our Home Page </em>
+            <em style="color: lightgrey">Welcome To Our Home Page </em>
             
             <br>
             
